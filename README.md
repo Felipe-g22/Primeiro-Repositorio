@@ -4,4 +4,4 @@ Este repositório é apenas um teste.
 
 ## Teste de Link
 
-[Linkedin](www.linkedin.com.br)
+[Linkedin](https://linkedin.com/)
