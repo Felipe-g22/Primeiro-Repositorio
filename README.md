@@ -1,4 +1,4 @@
-# Primeiro-Reposit-rio
+# Primeiro-Repositrio
 
 Este repositório é apenas um teste.
 
