@@ -1,6 +1,6 @@
 # Primeiro-Repositório
 
-Este repositório é apenas um teste.
+Testando repositório para o desafio de projeto Linux Experience.
 
 ## Teste de Link
 
